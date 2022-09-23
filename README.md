@@ -3,7 +3,7 @@
 Projeto Construído na Next Level Week da Rocketseat
 ![preview](preview.png)
 
-Hospedagem do Site :https://6325ec9c36b4195ce3d164bb--teal-faun-8dc436.netlify.app/
+Hospedagem do Site : https://stellular-profiterole-2f974b.netlify.app/
 ## Tecnologias :
 - HTML
 - CSS
