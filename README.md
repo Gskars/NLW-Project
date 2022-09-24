@@ -9,8 +9,7 @@ Hospedagem do Site : https://632e44fe6596de1923e9e829--celadon-fox-c8ee34.netlif
 - CSS
 - GIT E GITHUB 
 # Contatos:
-- Tel: (19)983006268
-- Email: gscardazi@gmail.com
+- Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
 
