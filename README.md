@@ -1,5 +1,5 @@
 # NLW e-Sports 
-> Trilha Explorer
+
 <h3>Projeto Construído na Next Level Week da Rocketseat</h3>
 
 
